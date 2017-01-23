@@ -1,0 +1,21 @@
+{
+  "name": "windows-dev-setup",
+  "version": "0.0.0",
+  "description": "Executes all necessary tools for development in a Windows environment. (.NET, NodeJS)",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    ".NET",
+    "NodeJS",
+    "Windows",
+    "Development"
+  ],
+  "author": "@apolo_codes",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^6.2.0"
+  }
+}
